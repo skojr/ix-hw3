@@ -12,7 +12,7 @@ function fibonacci(iter) {
 
 fibonacci(10);
 
-//this code waas cread by Giovanni Smith
+//this code waas cread by Giovanni Smith.
 
 function fibnum(){
     let firstNum = 0;
