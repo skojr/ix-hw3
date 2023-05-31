@@ -1,4 +1,4 @@
-// Print first 10 digits of Fibonacci sequence
+// This is Samuel's function
 
 let a = 0, b = 1, third;
 function fibonacci(iter) {
